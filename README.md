@@ -9,7 +9,7 @@ This project is a Javascript Calculator with fuctioality and interactivity. The 
 - Responsive design for optimal user experience on a mobile and laptop
 - Interactivity on every clickable item
 
-## What I Learnt
+## What I Learnt and Implemented
 - I learnt some basic Javascript functions that were implemented in the project like eval(), try and catch etc where the eval in my code was used to evaluate the value when you click on the button, the try and catch was used increase if any error occurs the catch will give it a value i personally chose NaN it could be anything.
 - I also used the empty quote for the clear button so when clicked it removes every typed value.
 - Implemented the use of the unchangeable variable keyword known as Constant (const) and the getElementById property to get the element from the html file
